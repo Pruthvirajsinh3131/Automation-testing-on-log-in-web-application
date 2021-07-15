@@ -1,0 +1,15 @@
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Task3_Vala_48207.exe
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Task3_Vala_48207.deps.json
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Task3_Vala_48207.runtimeconfig.json
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Task3_Vala_48207.runtimeconfig.dev.json
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Task3_Vala_48207.dll
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Task3_Vala_48207.pdb
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\obj\Release\netcoreapp3.1\Task3_Vala_48207.csprojAssemblyReference.cache
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\obj\Release\netcoreapp3.1\Task3_Vala_48207.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\obj\Release\netcoreapp3.1\Task3_Vala_48207.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\obj\Release\netcoreapp3.1\Task3_Vala_48207.csproj.CopyComplete
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\obj\Release\netcoreapp3.1\Task3_Vala_48207.dll
+C:\Users\Windows10\Desktop\Task3_Vala_48207\Task3_Vala_48207\obj\Release\netcoreapp3.1\Task3_Vala_48207.pdb

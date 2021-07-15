@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pdval\\source\\repos\\Pruthvirajsinh3131\\Automation-testing-on-log-in-web-application\\Task3_Vala_48207\\Task3_Vala_48207\\Task3_Vala_48207.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pdval\\source\\repos\\Pruthvirajsinh3131\\Automation-testing-on-log-in-web-application\\Task3_Vala_48207\\Task3_Vala_48207\\Task3_Vala_48207.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pdval\\source\\repos\\Pruthvirajsinh3131\\Automation-testing-on-log-in-web-application\\Task3_Vala_48207\\Task3_Vala_48207\\Task3_Vala_48207.csproj",
+        "projectName": "Task3_Vala_48207",
+        "projectPath": "C:\\Users\\pdval\\source\\repos\\Pruthvirajsinh3131\\Automation-testing-on-log-in-web-application\\Task3_Vala_48207\\Task3_Vala_48207\\Task3_Vala_48207.csproj",
+        "packagesPath": "C:\\Users\\pdval\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pdval\\source\\repos\\Pruthvirajsinh3131\\Automation-testing-on-log-in-web-application\\Task3_Vala_48207\\Task3_Vala_48207\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pdval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[91.0.4472.10100, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
